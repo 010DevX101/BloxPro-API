@@ -1,0 +1,11 @@
+{
+  "name": "BloxProAPI",
+  "tree": {
+    "$className": "DataModel",
+    "ServerStorage": {
+      "BloxProAPI": {
+        "$path": "BloxProAPI.luau"
+      }
+    }
+  }
+}
